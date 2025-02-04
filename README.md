@@ -1,5 +1,4 @@
 # dba-wrench
-SQL Server monitoring and maintenance toolkit
 
 # DBA Wrench
 
